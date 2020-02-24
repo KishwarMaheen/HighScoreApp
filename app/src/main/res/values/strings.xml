@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">High Score Application</string>
+    <string name="high_score_button">See High Scores</string>
+    <string name="exit">Exit</string>
+    <string name="default_name">Mahfuz</string>
+    <string name="default_score">69</string>
+</resources>
